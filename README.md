@@ -1,7 +1,7 @@
 # QuickDag & Nexgen Public Repo
 ###### QuickDag is a project of [Invise Labs](https://inviselabs.com/) – A division of [Invise Solutions Computer Repair and IT Services Utah](https://invisesolutions.com/)
 
-**This page and our webiste is being re-written, so bear with us.**
+**This page and our website are being re-written, so bear with us.**
 
 QuickDag (formerly Quick Dagger) emerges as an indispensable tool for IT professionals and Cyber Security Pros. We meticulously engineered two parts, an algorithm to diagnose and detect computer issues, and a **malware and malicious file detection engine, called Nexgen.** At the core of QuickDag is an intuitive dashboard, thoughtfully designed to provide a comprehensive summary **at a glance**. It presents critical information such as current scan status of Nexgen, detected hardware or system issues, system temperatures, hardware specifications, and noteworthy event log entries that merit further investigation. Our tool offers IT experts a centralized hub for monitoring and resolving technical challenges. 
 
